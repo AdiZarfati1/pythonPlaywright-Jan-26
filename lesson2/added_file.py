@@ -1,3 +1,3 @@
 print(1)
-a = 8
+a = 5
 print(a)
